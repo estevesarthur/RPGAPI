@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "dgSpecHash": "sN5asUz5kQDrBTHvHzBWcm1cNtCJvB2PiFu2FKinZWU+h3EUX2y1gyJowV1OGvd5uCGE99DqFXthCObl+mxeAA==",
+  "success": false,
+  "projectFilePath": "D:\\OneDrive - Etec Centro Paula Souza\\1Q\\2 Modulo\\Desenvolvimento de Sistemas\\AULA_DS\\DS2021-1\\RpgApi\\RpgApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.Authentication.JwtBearer (>= 5.0.5)' para 'net5.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.Mvc.NewtonsoftJson (>= 5.0.5)' para 'net5.0'.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.EntityFrameworkCore.Design (>= 5.0.5)' para 'net5.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.EntityFrameworkCore.SqlServer (>= 5.0.5)' para 'net5.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.IdentityModel.Tokens (>= 6.11.0)' para 'net5.0'.",
+      "libraryId": "Microsoft.IdentityModel.Tokens",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore (>= 5.6.3)' para 'net5.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'System.IdentityModel.Tokens.Jwt (>= 6.11.0)' para 'net5.0'.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
